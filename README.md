@@ -17,7 +17,7 @@ I'm at the beginning of my programming journey! I am passionate about learning n
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)
+- **LinkedIn:** www.linkedin.com/in/thirunetran
 - **Email:** thirunetran@example.com
 
 ---
